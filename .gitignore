@@ -77,3 +77,7 @@ firebase-debug.log
 debug.log
 # development logs and status entries
 .dev
+# Local dev files
+.direnvrc
+oppia_venv/
+MYREADME.md
